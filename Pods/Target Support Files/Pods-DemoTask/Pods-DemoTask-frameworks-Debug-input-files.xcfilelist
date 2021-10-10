@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DemoTask/Pods-DemoTask-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ProgressHUD/ProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
+${BUILT_PRODUCTS_DIR}/XLPagerTabStrip/XLPagerTabStrip.framework

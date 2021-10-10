@@ -1,0 +1,24 @@
+PODS:
+  - ProgressHUD (13.6)
+  - ReachabilitySwift (5.0.0)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - ProgressHUD
+  - ReachabilitySwift
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - ProgressHUD
+    - ReachabilitySwift
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  ProgressHUD: 4bdaa0d2ddf676b23324b199f9facffb5c3a1620
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 36ecc19865bfa79003b0275b0e3ff7cc8d1517e0
+
+COCOAPODS: 1.10.1
